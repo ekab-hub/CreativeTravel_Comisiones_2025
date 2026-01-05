@@ -1,0 +1,16 @@
+# DATA — NEVER COMMI/T
+data_work/
+data_processed/
+
+# Python
+__pycache__/
+*.pyc
+
+# System
+.DS_Store
+
+# Environments
+.venv/
+venv/
+.env
+
